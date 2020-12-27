@@ -1,0 +1,106 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Segoe UI", Roboto, "Open Sans", "Helvetica Neue", sans-serif;
+}
+/* navbar*/
+.divnavbar {
+  background-color: gray;
+  height: 70px;
+  position: fixed;
+  width: 100%;
+}
+.ulnav {
+  list-style: none;
+  float: right;
+  margin-top: 20px;
+}
+.linav {
+  display: inline;
+  padding: 5x;
+  margin: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  text-decoration: underline;
+}
+/*  h1 */
+h1 {
+  text-indent: 15px;
+  margin: 100px 0;
+  color: gray;
+  font-size: 50px;
+  display: inline;
+}
+
+/* Section 1 */
+
+.p1 {
+  padding: 30px;
+}
+h2 {
+  text-indent: 5px;
+  color: gray;
+  margin: 20px 0;
+  text-shadow: gray;
+}
+/* section 2 */
+.boxsection2 {
+  color: whitesmoke;
+
+  height: 500px;
+  font-size: 18px;
+  background-color: gray;
+  margin: 20px;
+  padding: 50px;
+}
+.lisection2 {
+  width: 80%;
+  margin-bottom: 5px;
+}
+/*section3*/
+.box1sec3 {
+  display: inline;
+  margin-left: 100px;
+}
+
+.box2sec3 {
+  display: inline-block;
+  margin-left: 30px;
+}
+.imgsec3 {
+  width: 250px;
+  height: 251px;
+}
+/* section contat*/
+.contactsection {
+  background-color: gray;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+.h2contact {
+}
+.tablecontact {
+  width: 100%;
+  margin-left: 50px;
+}
+.trcontactsection {
+  height: 30px;
+}
+.labelsec3 {
+  color: whitesmoke;
+}
+.butt {
+  margin-left: 40px;
+  padding: 10px 15px;
+  margin-bottom: 30px;
+}
+
+/* footer*/
+.footer {
+  color: black;
+}
